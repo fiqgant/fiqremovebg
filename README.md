@@ -10,7 +10,7 @@
 - [streamlit](https://streamlit.io/) - Streamlit turns data scripts into shareable web apps in minutes.
 
 
-## Demos
+## Demo
 ![Demo](demo/fiqremovebg.gif)
 
 [![Demo](https://www.herokucdn.com/deploy/button.svg)](https://fiqremovebg.herokuapp.com/)
