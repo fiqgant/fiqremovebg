@@ -174,7 +174,7 @@ def main():
 
 
 if __name__ == '__main__':
-    st.set_page_config(page_title='Remove Background ✂️',
+    st.set_page_config(page_title='Remove Background',
                        page_icon='🖼️',
                        initial_sidebar_state='expanded')
     st.markdown(
